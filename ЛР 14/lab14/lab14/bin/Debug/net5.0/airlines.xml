@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Airlines>
+  <airline name="Moscow">
+    <company>Belavia</company>
+    <price>15000</price>
+  </airline>
+  <airline name="Canada">
+    <company>Utair</company>
+    <price>30000</price>
+  </airline>
+</Airlines>
