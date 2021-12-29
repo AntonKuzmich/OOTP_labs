@@ -1,0 +1,19 @@
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csprojAssemblyReference.cache
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+D:\study\2 курс\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
+D:\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csprojAssemblyReference.cache
+D:\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+D:\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+D:\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+D:\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+D:\ООП\ЛР 6\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.pdb

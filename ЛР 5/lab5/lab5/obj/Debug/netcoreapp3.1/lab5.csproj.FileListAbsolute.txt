@@ -1,0 +1,39 @@
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\study\2 курс\ООП\ЛР 5-7\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\study\2 курс\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
+D:\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\ООП\ЛР 5\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\ООП\ЛР 5\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
