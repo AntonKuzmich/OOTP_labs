@@ -1,0 +1,7 @@
+D:\ООП\ЛР 9\lab9\lab9\bin\Debug\lab9.exe.config
+D:\ООП\ЛР 9\lab9\lab9\bin\Debug\lab9.exe
+D:\ООП\ЛР 9\lab9\lab9\bin\Debug\lab9.pdb
+D:\ООП\ЛР 9\lab9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+D:\ООП\ЛР 9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\ООП\ЛР 9\lab9\lab9\obj\Debug\lab9.exe
+D:\ООП\ЛР 9\lab9\lab9\obj\Debug\lab9.pdb
