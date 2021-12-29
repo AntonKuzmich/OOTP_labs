@@ -1,0 +1,14 @@
+C:\Users\Антон\source\repos\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Антон\source\repos\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Антон\source\repos\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Антон\source\repos\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\Антон\source\repos\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Антон\source\repos\lab8\lab8\obj\Debug\lab8.pdb
+D:\ООП\ЛР 8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\ООП\ЛР 8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\ООП\ЛР 8\lab8\lab8\obj\Debug\lab8.exe
+D:\ООП\ЛР 8\lab8\lab8\obj\Debug\lab8.pdb
+D:\ООП\ЛР 8\lab8\lab8\bin\Debug\lab8.exe.config
+D:\ООП\ЛР 8\lab8\lab8\bin\Debug\lab8.exe
+D:\ООП\ЛР 8\lab8\lab8\bin\Debug\lab8.pdb
